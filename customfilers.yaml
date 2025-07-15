@@ -1590,7 +1590,7 @@ detectors:
       - "rawPayload.password"
       - "{{input.auth.password}}&ssl={{input.auth.ssl}}"
       - "rawPayload.conversionSettings?.password"
-      - "rawPayload.conversionSettings.containsKey(\"
+      - "rawPayload.conversionSettings.containsKey(\\\""
       - "rawPayload.conversionSettings.password\n\nreturn"
       - "crowdstrike-b3099ea6053b49f9a62038309d5bcc8b"
       - "Microsoft-Calendar-59a9094e1c7241ebae0346fc8"
