@@ -136,3 +136,9 @@ jdbc:sqlserver://host:1433;database=mydb
 jdbc:sqlserver://serverlessws-ondemand.sql.azuresynapse.net
 https://hooks.slack.com/services/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
 https://hooks.slack.com/services/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
+null,m[Sr-1]!=d.passwordVerification)throw
+diff-ed6ae3396a34f04a5ca72eaeb498bb993233d9c
+properties.getProperty(
+CollectionUtils.getStringValueFromMap(inputs,
+\{password}\{
+getCurrentDomain()
